@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: react-app-container
-        image: sevenajay/2048:latest
+        image: maheshjadhav07822/2048:latest
 
         ports:
         - containerPort: 3000
